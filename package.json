@@ -1,0 +1,10 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.22.0"
+  }
+}
